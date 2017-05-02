@@ -1,10 +1,10 @@
-#Do Things
+# Do Things
 
 An Alfred Workflow for controlling Things.app
 
 ***
 
-##The Commands
+## The Commands
 
 So far, Do can only do 3 things:
 
@@ -67,6 +67,6 @@ Select message in Mac Mail.  Alfred will add a todo to things with the title of 
 	do mail
 
 *** 
-##Contact Information
+## Contact Information
 
 If you want to get a hold of me, feel free to contact me on Twitter: [@alexlafroscia](https://twitter.com/AlexLaFroscia).  I'd love to get some feedback, positive or negative, as well as suggestions and tips on improving Do!
