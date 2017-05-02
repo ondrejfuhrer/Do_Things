@@ -1,12 +1,12 @@
 # Do Things
 
-An Alfred Workflow for controlling Things.app
+An Alfred Workflow for controlling [Things.app](https://culturedcode.com/things/)
 
 ***
 
 ## The Commands
 
-So far, Do can only do 3 things:
+So far, Do can only do following things:
 
 1. Add a new task to the Inbox or "Today" lists
 2. List and completed the tasks in the inbox and "Today" lists
@@ -65,6 +65,12 @@ To empty the trash, the command is
 Select message in Mac Mail.  Alfred will add a todo to things with the title of the of the selected email.  It will add the tags email and the account the email was received.  It will also add a link back to the message.  The title of the link will be `the sender of the message | the message title`.  The command is 
 
 	do mail
+
+### Special characters
+
+Currently Do supports following special characters (modifiators):
+
+1. "#" for adding a tag (i.e. "do today example task #Home" will add "example task" to "Today" list with "Home" tag) 
 
 *** 
 ## Contact Information
